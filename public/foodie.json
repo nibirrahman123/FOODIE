@@ -1,0 +1,97 @@
+[
+     {
+       "recipeImage": "https://i.ibb.co.com/BKZPHvsx/Chicken-Soup.jpg",
+       "recipeId": "001",
+       "recipeName": "Chicken Soup",
+       "shortDescription": "A warm and comforting chicken soup with vegetables.",
+       "ingredients": [
+         "500 g chicken breast",
+         "200 g carrots",
+         "100 g celery",
+         "1 onion",
+         "2 garlic cloves",
+         "1 liter chicken broth"
+       ],
+       "preparingTime": "45 min",
+       "calories": "350 calories"
+     },
+     {
+       "recipeImage": "https://i.ibb.co.com/whxf2jQn/Spaghetti-Bolognese.jpg",
+       "recipeId": "002",
+       "recipeName": "Spaghetti Bolognese",
+       "shortDescription": "A classic Italian pasta dish with a rich, meaty tomato sauce.",
+       "ingredients": [
+         "400 g ground beef",
+         "1 onion",
+         "2 garlic cloves",
+         "400 g canned tomatoes",
+         "200 g spaghetti",
+         "50 ml red wine"
+       ],
+       "preparingTime": "60 min",
+       "calories": "600 calories"
+     },
+     {
+       "recipeImage": "https://i.ibb.co.com/JfV3vtb/Vegetable-Stir-Fry.jpg",
+       "recipeId": "003",
+       "recipeName": "Vegetable Stir Fry",
+       "shortDescription": "A quick and healthy stir fry with assorted vegetables.",
+       "ingredients": [
+         "200 g broccoli",
+         "150 g bell peppers",
+         "100 g snap peas",
+         "2 tbsp soy sauce",
+         "1 tbsp olive oil",
+         "1 tsp ginger"
+       ],
+       "preparingTime": "20 min",
+       "calories": "220 calories"
+     },
+     {
+       "recipeImage": "https://i.ibb.co.com/xbqsWrX/Fluffy-Pancakes.jpg",
+       "recipeId": "004",
+       "recipeName": "Fluffy Pancakes",
+       "shortDescription": "Light and fluffy pancakes served with syrup and berries.",
+       "ingredients": [
+         "200 g all-purpose flour",
+         "1 egg",
+         "200 ml milk",
+         "2 tbsp sugar",
+         "1 tsp baking powder",
+         "1 tbsp butter"
+       ],
+       "preparingTime": "25 min",
+       "calories": "350 calories"
+     },
+     {
+       "recipeImage": "https://i.ibb.co.com/MyzGYpkc/Avocado-Toast.jpg",
+       "recipeId": "005",
+       "recipeName": "Avocado Toast",
+       "shortDescription": "A simple and delicious avocado spread on toast.",
+       "ingredients": [
+         "2 slices whole grain bread",
+         "1 ripe avocado",
+         "1 tbsp lemon juice",
+         "Salt and pepper to taste"
+       ],
+       "preparingTime": "10 min",
+       "calories": "290 calories"
+     },
+     {
+       "recipeImage": "https://i.ibb.co.com/SwFXZZTp/Chocolate-Cake.jpg",
+       "recipeId": "006",
+       "recipeName": "Chocolate Cake",
+       "shortDescription": "A rich and moist chocolate cake with a smooth frosting.",
+       "ingredients": [
+         "200 g all-purpose flour",
+         "200 g sugar",
+         "100 g cocoa powder",
+         "2 eggs",
+         "150 g butter",
+         "1 tsp baking powder"
+       ],
+       "preparingTime": "90 min",
+       "calories": "450 calories"
+     }
+   ]
+   
